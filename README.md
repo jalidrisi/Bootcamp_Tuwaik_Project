@@ -27,3 +27,11 @@ The dataset contains 10 years of weather observations (145461 rows) and 23 featu
 - Temp3pm: temperature at 3PM
 - Rainfall: The amount of rain 
 - RainToday: wether there is rain today or not
+ ### Target 
+RainTomorrow: weather there is rain tomorrow or not
+
+### 
+
+
+
+
