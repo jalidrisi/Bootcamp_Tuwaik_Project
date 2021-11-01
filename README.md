@@ -29,8 +29,12 @@ The dataset contains 10 years of weather observations (145461 rows) and 23 featu
 - RainToday: wether there is rain today or not
  ### Target 
 RainTomorrow: weather there is rain tomorrow or not
+### Observations 
+There are null values in multiple columns that need to be handled by replacing them with either mean or median or remove them depening on the feature.Also there are non-numeric features that need to be converted before training the model. 
 
 ## Tools
-
+- **Programming Languge:** Python
+- **IDE:** Jupyter Notebook
+- **Visualization:** Python libraries like plotly, seaborn and matplotlib
 
 
