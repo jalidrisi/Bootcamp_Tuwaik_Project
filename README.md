@@ -36,5 +36,6 @@ There are null values in multiple columns that need to be handled by replacing t
 - **Programming Languge:** Python
 - **IDE:** Jupyter Notebook
 - **Visualization:** Python libraries like plotly, seaborn and matplotlib
+- **Modeling:** Scikit-learn 
 
 
