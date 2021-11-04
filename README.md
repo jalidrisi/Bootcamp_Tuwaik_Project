@@ -39,6 +39,7 @@ There are null values in multiple columns that need to be handled by replacing t
 - **Modeling:** Scikit-learn 
 
 ## MVP
-In MVP I will start with data cleaning and EDA and also try to answer the following questions
+In MVP I will start with data cleaning and EDA and also try to answer the following questions with data vsiualazations
 - Is there any correlation between tempreature and rain tomorrow
-- 
+- What are the relationshio between other features and how do they influce the posibility of rain tomorrow 
+- What other models can I use to benchmark the logistic regression ?
