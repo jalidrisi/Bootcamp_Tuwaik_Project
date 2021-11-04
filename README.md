@@ -38,4 +38,7 @@ There are null values in multiple columns that need to be handled by replacing t
 - **Visualization:** Python libraries like plotly, seaborn and matplotlib
 - **Modeling:** Scikit-learn 
 
-
+## MVP
+In MVP I will start with data cleaning and EDA and also try to answer the following questions
+- Is there any correlation between tempreature and rain tomorrow
+- 
