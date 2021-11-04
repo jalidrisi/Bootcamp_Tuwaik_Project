@@ -1,4 +1,9 @@
 
+
+##Project Proposal for Predicting Rain Tomorrow?
+
+Jaidaa Alidrisi
+
 ## Question/need
 The goal of this project is to use classification models to predict whether it is going to rain the next day or not based on weather observations from the previous day. Predicting rain is beneficial for various fields. As a software developer in the National Center for Meteorology, I can help weather forecasters and meteorologists in their weather forecasting process and issuing weather alerts to the public or to other governmental sectors. In addition, predicting rain assists farmers managing and improving their produce and it also helps event organizers plan their outdoor events better.
 
