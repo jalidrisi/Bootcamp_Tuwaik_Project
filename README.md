@@ -1,6 +1,6 @@
 
 
-## Project Proposal for Predicting Rain Tomorrow?
+## Project Proposal for Predicting Rain Tomorrow
 
 Jaidaa Alidrisi
 
